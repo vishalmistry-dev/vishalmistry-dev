@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishal Mistry
 
-<!--
-**vishalmistry-dev/vishalmistry-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** focused on building scalable, maintainable web applications using **Next.js**, **Node.js**, **TypeScript**, and **Prisma**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- **Frontend:** Next.js, React, TailwindCSS  
+- **Backend:** Node.js, Express.js, Prisma  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **Other Tools:** GitHub, Vercel, Docker, Shopify API  
+
+---
+
+### 💡 About Me
+- 💼 Freelancer | Passionate about clean architecture & performance  
+- 🧠 Always exploring better ways to scale projects  
+- 🔗 Portfolio: [vishal-mistry.vercel.app](https://vishal-mistry.vercel.app)  
+- 📫 Reach me: [vishalrmistry.dev@gmail.com](mailto:vishalrmistry.dev@gmail.com)
+
+---
+
+### 🛠️ Current Focus
+Building **RakshaSetu** — a scalable full-stack platform integrating B2B workflows, logistics, and Shopify ecosystem tools.
+
+---
+
+### 🧭 Goals
+> “To design systems that scale gracefully and code that reads like a story.”
