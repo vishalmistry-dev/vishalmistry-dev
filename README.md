@@ -25,5 +25,25 @@ Building **RakshaSetu** — a scalable full-stack platform integrating B2B workf
 
 ---
 
+## 💼 Education
+
+- **Master of Engineering in Computer Engineering**  
+  *Ahmedabad, Gujarat, India*  
+  *2023 – 2025*
+
+- **Bachelor of Engineering in Computer Engineering**  
+  *Gandhinagar, Gujarat, India*  
+  *2018 – 2022*
+
+- **PHP Web Developer**  
+  *Ahmedabad, Gujarat, India*  
+  *2022 – 2023*
+
+- **Web Developer Intern**  
+  *Ahmedabad, Gujarat, India*  
+  *2022*
+
+---
+
 ### 🧭 Goals
 > “To design systems that scale gracefully and code that reads like a story.”
